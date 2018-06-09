@@ -1,0 +1,30 @@
+{
+  "name": "friend-finder-app",
+  "version": "1.0.0",
+  "description": "Finds a friend with best compatibility from my data ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhilashalk/Friend-Finder-app.git"
+  },
+  "keywords": [
+    "Find",
+    "friend",
+    "compatibility"
+  ],
+  "author": "Abi Prabash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhilashalk/Friend-Finder-app/issues"
+  },
+  "homepage": "https://github.com/abhilashalk/Friend-Finder-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
